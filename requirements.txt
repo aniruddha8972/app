@@ -1,3 +1,4 @@
-streamlit
+setuptools
+flask
 ydata_profiling
 pandas
