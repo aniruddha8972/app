@@ -2,3 +2,4 @@ setuptools
 flask
 ydata_profiling
 pandas
+gunicorn==20.1.0
